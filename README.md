@@ -25,7 +25,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
 
  <tr>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
- <td><a href="https://www.youtube.com/watch?v=sA3taBUfp-Q歐戀幾4</a></td>
+ <td><a href="https://www.youtube.com/watch?v=sA3taBUfp-Q">歐戀幾4</a></td>
  <td><a href="https://github.com/liting919/map.git">巨量資料處理</a></td>
  <td>陳 O 婷</td>
  </tr>
